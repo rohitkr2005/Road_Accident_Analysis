@@ -128,6 +128,33 @@ These features enabled deeper temporal trend analysis.
 
 ---
 
+## Visual Reporting
+
+Three visual reports were created:
+
+### Visual Report 1: Accident Overview
+
+* Severity Distribution
+* Day-wise Trends
+* Monthly Trends
+* Hourly Trends
+
+### Visual Report 2: Environmental Factors
+
+* Weather Conditions
+* Road Surface Conditions
+* Urban vs Rural Analysis
+* Speed Limit Analysis
+
+### Visual Report 3: Vehicle and Casualty Analysis
+
+* Vehicle Type Distribution
+* Casualty Distribution
+* Vehicles Involved
+* Correlation Heatmap
+
+---
+
 ## Key Findings
 
 * Slight accidents constitute the majority of recorded incidents.
@@ -254,3 +281,12 @@ The models are evaluated using:
 ### Rohit Kumar Mandal
 
 Data Science Enthusiast | Python Developer | Machine Learning Practitioner | Aspiring Data Scientist
+<<<<<<< HEAD
+=======
+
+---
+
+## License
+
+This project is intended for educational, research, and portfolio purposes.
+>>>>>>> 7f7787b65d878bdc687068643d310095dc250b52
