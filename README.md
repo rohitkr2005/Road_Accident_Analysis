@@ -285,8 +285,3 @@ Data Science Enthusiast | Python Developer | Machine Learning Practitioner | Asp
 =======
 
 ---
-
-## License
-
-This project is intended for educational, research, and portfolio purposes.
->>>>>>> 7f7787b65d878bdc687068643d310095dc250b52
